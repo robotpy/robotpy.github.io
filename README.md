@@ -4,6 +4,14 @@ robotpy.github.io
 This is the contents of robotpy.github.io hosted on github pages. If you find
 errors, or have a design improvement, please feel free to submit a pull request!
 
+This site uses github pages and Jeykll, with Poole as the initial theme.
+
+Add a new piece of news
+=======================
+
+Just add a new markdown file in the _posts directory, using one of the other
+files as an example.
+
 Running this site locally
 =========================
 
