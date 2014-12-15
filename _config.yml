@@ -3,17 +3,26 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:            RobotPy
+tagline:          Python 3 for the FIRST Robotics Competition (FRC)
+url:              http://robotpy.github.io
+paginate:         5
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           RobotPy Development Team
+  url:            http://robotpy.github.io
+  email:          robotpy@googlegroups.com
+
+# Menu setup
+menu:
+    - ["Projects", "/projects/"]
+    - ["Docs", "/docs/"]
+    - ["Code", "https://github.com/robotpy"]
+    - ["Community", "/community/"]
+    - ["FAQ", "/faq/"]
+    - ["About", "/about/"]
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/robotpy/robotpy.github.io

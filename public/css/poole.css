@@ -251,6 +251,36 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/*
+ * Menu/navbar
+ *
+ */
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 1rem 0 1rem 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+}
+
+nav ul a {
+  display: block;
+  padding: 0.4rem 1rem 0.4rem 1rem;
+  border-left: 1px solid #dddddd;
+}
+
+nav ul a:hover, nav ul a:active {
+  background-color: #dddddd;
+  color: #fff;
+}
+
+nav {
+  border-bottom: 1px solid #dddddd;
+}
 
 /*
  * Custom type
@@ -303,7 +333,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  /*margin-bottom: 3rem;*/
 }
 .masthead-title {
   margin-top: 0;
