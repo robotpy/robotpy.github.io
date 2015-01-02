@@ -350,6 +350,12 @@ nav {
   letter-spacing: 0;
 }
 
+.masthead-title img {
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
 
 /*
  * Posts and pages
