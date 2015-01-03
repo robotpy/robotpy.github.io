@@ -14,4 +14,6 @@ Now that kickoff is over and the game has been released, we're happy to announce
 
 Our initial RobotPy release for 2015 is now available for download on our [release page](https://github.com/robotpy/robotpy-wpilib/releases).
 
+The team has put months of effort into this release, and we're really excited about 2015! Special thanks to Christian Balcom (@computer-whisperer, FRC Team 4819), who has done a significant amount of work on the pure python port of WPILib, and various useful tooling.
+
 Go ahead and start using what we have, and report bugs as you find them! We expect that there will be a lot of bugfixes over the next few weeks, but that will probably be true for the other languages too. Please [report any problems on our issue tracker](https://github.com/robotpy/robotpy-wpilib/issues) as you find them!
