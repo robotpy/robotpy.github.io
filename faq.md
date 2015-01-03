@@ -5,16 +5,23 @@ title: Frequently Asked Questions
 
 Here you can find answers to some of the most frequently asked questions about RobotPy.
 
-<p class="message">Please note that we're still getting stuff ready for 2015, so this documentation is somewhat out of date!</p>
+<p class="message">Please note that this documentation is still being updated for 2015!</p>
 
 ## Installing and Running RobotPy
 
+### How do I install RobotPy?
 
-### What version of Python is RobotPy based on?
+See our [getting started guide](http://robotpy.readthedocs.org/en/latest/getting_started.html).
 
-RobotPy 2014.2 is based on Python 3.2.5.  This means you should reference the [Python 3.x documentation](http://docs.python.org/py3k/) instead of the Python 2.x documentation.
+### What version of Python do RobotPy projects use?
 
-RobotPy 2015 will use Python 3.4.
+When running RobotPy on a FIRST Robot, our libraries/interpreters use Python 3.  This means you should reference the [Python 3.x documentation](http://docs.python.org/py3k/) instead of the Python 2.x documentation.
+
+* RobotPy WPILib 2015 uses a Python 3.4.2 on the RoboRIO. When using pyfrc or similar projects, you should use a Python 3.4 interpreter.
+* RobotPy 2014.x is based on Python 3.2.5.
+
+[pynetworktables](https://github.com/robotpy/pynetworktables) is compatible with Python 2.7, 3.2, 3.3, and 3.4. 
+
 
 ### What happens when my code crashes?
 
@@ -22,13 +29,13 @@ An exception will be printed out to the console. It is highly recommended that y
 
 ### Is WPILib available?
 
-Of course!  Just "import wpilib".  Class and function names are identical to the Java version.
+Of course!  Just "import wpilib". Class and function names are identical to the Java version. Check out the [Python WPILib API Reference](http://robotpy.readthedocs.org/en/latest/wpilib.html) for more details.
 
 Prior to 2015, the API matched the C++ version of WPILib.
 
 ### Is Command-based programming available?
 
-Of course! Check out the wpilib.commands package. There is also a python sample available at TODO
+Of course! Check out the [wpilib.commands](http://robotpy.readthedocs.org/en/latest/wpilib.command.html) package. There are also [python samples available on github](https://github.com/robotpy/robotpy-wpilib/tree/master/examples/command-based).
 
 ### Is there an easy way to test my code outside of the robot?
 
@@ -36,7 +43,7 @@ Glad you asked! Check out the [pyfrc](http://github.com/robotpy/pyfrc) project, 
 
 ### Is RobotPy compatible with the 2015+ FRCSim/Gazebo Robot Simulator
 
-Absolultely! Documentation can be found at... 
+Absolutely! It's still a bit rough, but you can find more information at the [robotpy-frcsim project](https://github.com/robotpy/robotpy-frcsim).
 
 # Competition
 
@@ -66,7 +73,7 @@ We've not yet benchmarked it, but it's almost certainly just as fast as Java for
 
 RobotPy was created by Peter Johnson, programming mentor for FRC Team 294, [Beach Cities Robotics](http://www.bcrobotics.org/).  He was inspired by the [Lua port for the cRIO](http://redmine.zombiezen.com/projects/greyhoundlua/) created by Ross Light, FRC Team 973.
 
-Since 2011, RobotPy updates are also maintained by Dustin Spicuzza, programming mentor for FRC Team 2423 and 1418.
+Since 2011, RobotPy has been also maintained by Dustin Spicuzza, programming mentor for FRC Teams 2423 and 1418.
 
 # How can I help?
 
