@@ -9,10 +9,12 @@ We're happy to announce the initial release of pyfrc for 2015! You should find t
 * Simulation
 * Easy robot code upload to RoboRIO (python3 robot.py upload)
 
+Check out the documentation at [http://pyfrc.readthedocs.org/en/latest/](http://pyfrc.readthedocs.org/en/latest/).
+
 Additionally, RobotPy 2015.0.1 has been released!
 
 * There are some minor improvements to the installer
 * Bugfixes in CANJaguar
 * pynivision is now included in the installer, so you can use the NI Vision stuff from python
 
-See all changes on [github](https://github.com/robotpy/robotpy-wpilib/compare/2015.0.0...2015.0.1).
+See all changes on [github](https://github.com/robotpy/robotpy-wpilib/compare/2015.0.0...2015.0.1). Updated RobotPy releases can be found at github on our [release page](https://github.com/robotpy/robotpy-wpilib/releases).
