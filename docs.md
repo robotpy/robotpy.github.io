@@ -6,7 +6,7 @@ title: Documentation
 The RobotPy project hosts much of its documentation on readthedocs.org. Links to individual RobotPy project documentation sites can be found below.
 
 * [Primary RobotPy documentation](http://robotpy.readthedocs.org)
-* [Python WPILib API Reference](http://robotpy.readthedocs.org/en/latest/wpilib.html)
+* [Python WPILib API Reference](http://robotpy.readthedocs.org/en/latest/wpilib.html) ([offline downloads](https://readthedocs.org/projects/robotpy/downloads/))
 
 * [pyfrc](http://pyfrc.readthedocs.org)
 * [pynetworktables](http://pynetworktables.readthedocs.org)
