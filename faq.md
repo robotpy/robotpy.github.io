@@ -5,8 +5,6 @@ title: Frequently Asked Questions
 
 Here you can find answers to some of the most frequently asked questions about RobotPy.
 
-<p class="message">Please note that this documentation is still being updated for 2015!</p>
-
 ## Installing and Running RobotPy
 
 ### How do I install RobotPy?
@@ -25,7 +23,7 @@ When running RobotPy on a FIRST Robot, our libraries/interpreters use Python 3. 
 
 ### What happens when my code crashes?
 
-An exception will be printed out to the console. It is highly recommended that you enable NetConsole for your robot, so you can see these messages.
+An exception will be printed out to the console, and the Driver Station log may receive a message as well. It is highly recommended that you enable NetConsole for your robot, so you can see these messages.
 
 ### Is WPILib available?
 
@@ -44,6 +42,10 @@ Glad you asked! Check out the [pyfrc](http://github.com/robotpy/pyfrc) project, 
 ### Is RobotPy compatible with the 2015+ FRCSim/Gazebo Robot Simulator
 
 Absolutely! It's still a bit rough, but you can find more information at the [robotpy-frcsim project](https://github.com/robotpy/robotpy-frcsim).
+
+### Are there plugins for Eclipse like the other FRC languages?
+
+Yup! Check out the [github project page](https://github.com/robotpy/robotpy-eclipse-plugins) for more information.
 
 # Competition
 
