@@ -5,8 +5,10 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
     2015:
+        - ["865", ""]
         - ["1418", ""]
         - ["2423", ""]
+        - ["4819", ""]
     2014:
         - ["294", ""]
         - ["865", "https://github.com/Team865/frc2014.5"]
