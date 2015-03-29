@@ -15,6 +15,7 @@ RobotPy is home to several FRC-related python projects:
 RobotPy is home to several python projects that are useful for teams, even if they aren't writing their robot code in python:
 
 *   [pynetworktables](https://github.com/robotpy/pynetworktables): python bindings for NetworkTables that you can use to communcate with SmartDashboard and/or your robot.
+*   [pynetworktables2js](https://github.com/robotpy/pynetworktables2js): Forwards NetworkTables traffic to a web page, allowing you to write custom dashboards for your robot using HTML/Javascript
 *   [pynetconsole](https://github.com/robotpy/pynetconsole): A simple netconsole implementation in python
 
 And, other projects:
