@@ -21,6 +21,7 @@ teamlist:
         - ["1243", ""]
         - ["1418", "https://github.com/frc1418/2014"]
         - ["2423", "https://github.com/team2423/2014"]
+        - ["2928", "https://github.com/VikingRobotics/2014_Base"]
         - ["3966", "https://github.com/LN-STEMpunks/Shrimp"]
         - ["4038", "https://bitbucket.org/ariovistus/frc2014"]
         - ["4604", ""]
