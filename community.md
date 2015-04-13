@@ -5,10 +5,12 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
     2015:
+        - ["94", "https://github.com/TechnoJays/robot"]
         - ["294", ""]
         - ["865", ""]
-        - ["1418", ""]
-        - ["2423", ""]
+        - ["1288", "http://www.chiefdelphi.com/forums/showthread.php?t=135688"]
+        - ["1418", "https://github.com/frc1418/2015-robot"]
+        - ["2423", "https://github.com/frc2423/2015"]
         - ["3145", ""]
         - ["3223", ""]
         - ["3966", ""]
@@ -16,6 +18,7 @@ teamlist:
         - ["4480", ""]
         - ["4819", ""]
     2014:
+        - ["94", "https://github.com/TechnoJays/robot2014"]
         - ["294", ""]
         - ["865", "https://github.com/Team865/frc2014.5"]
         - ["1243", ""]
@@ -25,6 +28,7 @@ teamlist:
         - ["3966", "https://github.com/LN-STEMpunks/Shrimp"]
         - ["4038", "https://bitbucket.org/ariovistus/frc2014"]
         - ["4604", ""]
+        - ["5080", "https://github.com/JohnDickinsonHS/FRC"]
     2013:
         - ["294", "https://github.com/team294/FRC2013"]
         - ["2423", "https://github.com/team2423/2013"]
@@ -33,6 +37,7 @@ teamlist:
     2012:
         - ["294", ""]
         - ["2423", "https://github.com/team2423/2008-2012/tree/master/Kwarqs2012"]
+        - ["2945", "https://github.com/manitourobotics/2012-python"]
     2011:
         - ["294", ""]
         - ["2423", "https://github.com/team2423/2008-2012/tree/master/Kwarqs2011/trunk"]
