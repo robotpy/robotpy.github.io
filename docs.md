@@ -11,5 +11,6 @@ The RobotPy project hosts much of its documentation on readthedocs.org. Links to
 * [pyfrc](http://pyfrc.readthedocs.org)
 * [pynetworktables](http://pynetworktables.readthedocs.org)
 * [pynetworktables2js](http://pynetworktables2js.readthedocs.org)
+* [robotpy-wpilib-utilities](http://robotpy-wpilib-utilities.readthedocs.org)
 
 We are always looking for ways to improve our documentation. If you find an inaccuracy, or something that needs to be explained further, please file a bug or issue a pull request for the relevant project.
