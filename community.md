@@ -73,7 +73,7 @@ During the FRC Build Season, some RobotPy developers may be able to be reached o
 Teams that use RobotPy
 ----------------------
 
-Here is a list of teams that are known to have used RobotPy over the years, and that have publicly released their source code for others to learn from.
+Here is a list of teams that are known to have used RobotPy over the years, and that have publicly released their source code for others to learn from. Is your team using RobotPy? Add it to the list by [editing this page on github](https://github.com/robotpy/robotpy.github.io/blob/master/community.md)!
 
 {% for year in page.teamlist %}
 ### {{ year[0] }}
