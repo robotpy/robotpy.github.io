@@ -10,7 +10,7 @@ teamlist:
     2015:
         - ["94", "https://github.com/TechnoJays/robot"]
         - ["294", ""]
-        - ["865", ""]
+        - ["865", "https://github.com/Team865/tachyon"]
         - ["1288", "http://www.chiefdelphi.com/forums/showthread.php?t=135688"]
         - ["1418", "https://github.com/frc1418/2015-robot"]
         - ["2423", "https://github.com/frc2423/2015"]
@@ -18,7 +18,7 @@ teamlist:
         - ["3223", ""]
         - ["3966", ""]
         - ["4009", "https://github.com/DenfeldRobotics4009/2015_Lopez_Jr"]
-        - ["4480", ""]
+        - ["4480", "https://github.com/bb20basketball/2015-Team4480-Code"]
         - ["4819", ""]
     2014:
         - ["94", "https://github.com/TechnoJays/robot2014"]
@@ -54,6 +54,15 @@ If you need support, you can find it in the following locations
 * [RobotPy mailing list](https://groups.google.com/forum/#!forum/robotpy)
 * [ChiefDelphi Python Forums](http://www.chiefdelphi.com/forums/forumdisplay.php?f=187)
 
+Release Announcements
+---------------------
+
+During the build season, we post release announcements to the
+[ChiefDelphi Python forum](http://www.chiefdelphi.com/forums/forumdisplay.php?f=187) and
+to the RobotPy mailing list, particularly if critical bugs are fixed.
+
+If you're on a team that uses RobotPy, we highly recommend subscribing to our
+[mailing list](https://groups.google.com/forum/#!forum/robotpy).
 
 IRC
 ---
