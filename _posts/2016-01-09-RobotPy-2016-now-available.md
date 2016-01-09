@@ -16,6 +16,12 @@ Additionally, the following packages are available through our opkg feed:
 * OpenCV 3.1.0 (C++, Java, and Python bindings)
 * NumPy 1.10.2
 
+Some things that you can look forward to in the future:
+
+* ipk Packaging for mjpg-streamer
+* robotpy-websim
+* pynetworktables upgrades
+
 The RoboRIO binaries will only work correctly on a RoboRIO that has been reimaged for the 2016 season.
 
 Our initial RobotPy release for 2016 is now available for download on our [release page](https://github.com/robotpy/robotpy-wpilib/releases).
