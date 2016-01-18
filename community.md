@@ -7,6 +7,7 @@ teamlist:
     2016:
         - ["1418", ""]
         - ["2423", ""]
+        - ["4009", "https://github.com/DenfeldRobotics4009/2016_Freckles"]
         - ["4774", "https://github.com/thedropbears"]
     2015:
         - ["94", "https://github.com/TechnoJays/robot"]
