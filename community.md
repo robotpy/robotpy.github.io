@@ -5,13 +5,18 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
     2016:
+        - ["74", ""]
+        - ["1288", ""]
         - ["1418", ""]
         - ["2423", ""]
         - ["4009", "https://github.com/DenfeldRobotics4009/2016_Freckles"]
+        - ["4393", ""]
+        - ["4480", ""]
         - ["4774", "https://github.com/thedropbears"]
+        - ["4819", ""]
+        - ["5929", ""]
     2015:
         - ["94", "https://github.com/TechnoJays/robot"]
-        - ["294", ""]
         - ["865", "https://github.com/Team865/tachyon"]
         - ["1288", "http://www.chiefdelphi.com/forums/showthread.php?t=135688"]
         - ["1418", "https://github.com/frc1418/2015-robot"]
