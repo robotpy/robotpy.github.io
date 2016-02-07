@@ -1,6 +1,9 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
 # Setup
 title:            RobotPy
