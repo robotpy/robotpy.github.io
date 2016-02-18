@@ -5,7 +5,7 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
     2016:
-        - ["74", ""]
+        - ["74", "https://github.com/Team74/FRC_2016_Python_Stronghold"]
         - ["1288", ""]
         - ["1418", ""]
         - ["2036", ""]
