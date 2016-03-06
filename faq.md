@@ -15,10 +15,10 @@ See our [getting started guide](http://robotpy.readthedocs.org/en/latest/getting
 
 When running RobotPy on a FIRST Robot, our libraries/interpreters use Python 3.  This means you should reference the [Python 3.x documentation](http://docs.python.org/py3k/) instead of the Python 2.x documentation.
 
-* RobotPy WPILib 2015 uses a Python 3.4.2 on the RoboRIO. When using pyfrc or similar projects, you should use a Python 3.4 interpreter.
+* RobotPy WPILib 2016 uses Python 3.5.1 on the RoboRIO. When using pyfrc or similar projects, you should use a Python 3.4 or Python 3.5 interpreter.
 * RobotPy 2014.x is based on Python 3.2.5.
 
-[pynetworktables](https://github.com/robotpy/pynetworktables) is compatible with Python 2.7, 3.2, 3.3, and 3.4. 
+[pynetworktables](https://github.com/robotpy/pynetworktables) is compatible with Python 2.7, 3.3, 3.4, and 3.5. 
 
 
 ### What happens when my code crashes?
@@ -41,7 +41,7 @@ Glad you asked! Check out the [pyfrc](http://github.com/robotpy/pyfrc) project, 
 
 ### Is RobotPy compatible with the 2015+ FRCSim/Gazebo Robot Simulator
 
-Absolutely! It's still a bit rough, but you can find more information at the [robotpy-frcsim project](https://github.com/robotpy/robotpy-frcsim).
+Sorta... it's still a bit rough, but you can find more information at the [robotpy-frcsim project](https://github.com/robotpy/robotpy-frcsim).
 
 ### Are there plugins for Eclipse like the other FRC languages?
 
@@ -65,7 +65,7 @@ Yes! While it is not an officially supported language, teams have been using Rob
 
 ## Is RobotPy fast?
 
-TODO for 2015.
+It's fast enough.
 
 We've not yet benchmarked it, but it's almost certainly just as fast as Java for typical WPILib-using robot code.  RobotPy uses the native C++ WPILib, and thus the only interpreted portions are your specific robot actions.  If you have particularly performance sensitive code, you can write it in C++ and add SWIG wrappers to interface to it from Python (note, however, that this takes a fair amount of coding expertise).
 
