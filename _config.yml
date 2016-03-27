@@ -4,6 +4,7 @@ permalink:        pretty
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
 
 # Setup
 title:            RobotPy
