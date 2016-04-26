@@ -18,6 +18,7 @@ teamlist:
         - ["5929", ""]
         - ["1915", ""]
         - ["4688", "https://github.com/clxe/frc2016"]
+        - ["2605", "https://github.com/Seamonsters-2605/"]
     2015:
         - ["94", "https://github.com/TechnoJays/robot"]
         - ["865", "https://github.com/Team865/tachyon"]
