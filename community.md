@@ -14,7 +14,7 @@ teamlist:
         - ["2605", "https://github.com/Seamonsters-2605/"]
         - ["4009", "https://github.com/DenfeldRobotics4009/2016_Freckles"]
         - ["4393", ""]
-        - ["4480", ""]
+        - ["4480", "https://github.com/bb20basketball/2016-RobotCode"]
         - ["4688", "https://github.com/clxe/frc2016"]
         - ["4774", "https://github.com/thedropbears"]
         - ["4819", ""]
