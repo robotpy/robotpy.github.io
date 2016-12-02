@@ -80,7 +80,8 @@ If you're on a team that uses RobotPy, we highly recommend subscribing to our
 IRC
 ---
 
-During the FRC Build Season, some RobotPy developers may be able to be reached on **#robotpy** channel on [Freenode](http://freenode.net/irc_servers.shtml). _Note: the channel is not very active, but if you stick around long enough someone will probably answer your question -- think in terms of email response time_
+During the FRC Build Season, some RobotPy developers may be able to be reached on
+the [RobotPy Gitter Channel](https://gitter.im/robotpy/robotpy-wpilib).  _Note: the channel is not very active, but if you stick around long enough someone will probably answer your question -- think in terms of email response time_
 
 
 Teams that use RobotPy
