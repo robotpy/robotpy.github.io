@@ -77,8 +77,8 @@ to the RobotPy mailing list, particularly if critical bugs are fixed.
 If you're on a team that uses RobotPy, we highly recommend subscribing to our
 [mailing list](https://groups.google.com/forum/#!forum/robotpy).
 
-IRC
----
+Chat
+----
 
 During the FRC Build Season, some RobotPy developers may be able to be reached on
 the [RobotPy Gitter Channel](https://gitter.im/robotpy/robotpy-wpilib).  _Note: the channel is not very active, but if you stick around long enough someone will probably answer your question -- think in terms of email response time_
