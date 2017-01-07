@@ -4,10 +4,18 @@ title: RobotPy Community
 
 # Feel free to add your team to this list!
 teamlist:
+    2017:
+        - ["1418", ""]
+        - ["1973", ""]
+        - ["2423", ""]
+        - ["4480", ""]
+        - ["4774", ""]
+        - ["4796", ""]
     2016:
         - ["74", "https://github.com/Team74/FRC_2016_Python_Stronghold"]
+        - ["94", "https://github.com/TechnoJays/robot2016"]
         - ["1288", ""]
-        - ["1418", ""]
+        - ["1418", "https://github.com/frc1418/2016-robot"]
         - ["1915", ""]
         - ["2036", ""]
         - ["2423", "https://github.com/frc2423/2016"]
@@ -22,7 +30,7 @@ teamlist:
         - ["4819", "https://github.com/Team4819/2016-Codebase"]
         - ["5929", ""]
     2015:
-        - ["94", "https://github.com/TechnoJays/robot"]
+        - ["94", "https://github.com/TechnoJays/robot2015"]
         - ["865", "https://github.com/Team865/tachyon"]
         - ["1288", "http://www.chiefdelphi.com/forums/showthread.php?t=135688"]
         - ["1418", "https://github.com/frc1418/2015-robot"]
