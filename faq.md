@@ -15,10 +15,10 @@ See our [getting started guide](http://robotpy.readthedocs.org/en/latest/getting
 
 When running RobotPy on a FIRST Robot, our libraries/interpreters use Python 3.  This means you should reference the [Python 3.x documentation](http://docs.python.org/py3k/) instead of the Python 2.x documentation.
 
-* RobotPy WPILib 2016 uses Python 3.5.1 on the RoboRIO. When using pyfrc or similar projects, you should use a Python 3.4 or Python 3.5 interpreter.
+* RobotPy WPILib 2017 uses Python 3.6.0 on the RoboRIO. When using pyfrc or similar projects, you should use a Python 3.4 or newer interpreter.
 * RobotPy 2014.x is based on Python 3.2.5.
 
-[pynetworktables](https://github.com/robotpy/pynetworktables) is compatible with Python 2.7, 3.3, 3.4, and 3.5. 
+[pynetworktables](https://github.com/robotpy/pynetworktables) is compatible with Python 2.7 and 3.3 or newer
 
 
 ### What happens when my code crashes?
@@ -27,13 +27,13 @@ An exception will be printed out to the console, and the Driver Station log may 
 
 ### Is WPILib available?
 
-Of course!  Just "import wpilib". Class and function names are identical to the Java version. Check out the [Python WPILib API Reference](http://robotpy.readthedocs.org/en/latest/wpilib.html) for more details.
+Of course!  Just "import wpilib". Class and function names are identical to the Java version. Check out the [Python WPILib API Reference](http://robotpy.readthedocs.io/projects/wpilib/en/stable/api.html) for more details.
 
 Prior to 2015, the API matched the C++ version of WPILib.
 
 ### Is Command-based programming available?
 
-Of course! Check out the [wpilib.commands](http://robotpy.readthedocs.org/en/latest/wpilib.command.html) package. There are also [python samples available on github](https://github.com/robotpy/robotpy-wpilib/tree/master/examples/command-based).
+Of course! Check out the [wpilib.commands](http://robotpy.readthedocs.org/en/latest/wpilib.command.html) package. There is also some [python-specific documentation available](http://robotpy.readthedocs.io/en/stable/frameworks/command.html).
 
 ### Is there an easy way to test my code outside of the robot?
 
@@ -73,9 +73,9 @@ We've not yet benchmarked it, but it's almost certainly just as fast as Java for
 
 ## Who created RobotPy?
 
-RobotPy was created by Peter Johnson, programming mentor for FRC Team 294, [Beach Cities Robotics](http://www.bcrobotics.org/).  He was inspired by the [Lua port for the cRIO](http://redmine.zombiezen.com/projects/greyhoundlua/) created by Ross Light, FRC Team 973.
+RobotPy was created by Peter Johnson, programming mentor for FRC Team 294, [Beach Cities Robotics](http://www.bcrobotics.org/).  He was inspired by the [Lua port for the cRIO](http://redmine.zombiezen.com/projects/greyhoundlua/) created by Ross Light, FRC Team 973. Peter is a member of the FIRST WPILib team, and also created the [ntcore](https://github.com/wpilibsuite/ntcore/) and [cscore](https://github.com/wpilibsuite/cscore/) libraries.
 
-Since 2011, RobotPy has been also maintained by Dustin Spicuzza, programming mentor for FRC Teams 2423 and 1418.
+The current RobotPy maintainer is [Dustin Spicuzza](http://github.com/virtuald).
 
 # How can I help?
 

@@ -10,7 +10,6 @@ RobotPy is home to several FRC-related python projects:
 *   [pyfrc](https://github.com/robotpy/pyfrc): provides unit testing, realtime robot simulation, and easy upload capabilities for your RobotPy code
 *   [robotpy-wpilib-utilities](https://github.com/robotpy/robotpy-wpilib-utilities): Community focused extensions for WPILib
 *   [robotpy-frcsim](https://github.com/robotpy/robotpy-frcsim): FRCSim/gazebo connection for python code
-*   [pynivision](https://github.com/robotpy/pynivision): Python wrappers for NI Vision (nivision)
 
 RobotPy is home to several python projects that are useful for teams, even if they aren't writing their robot code in python:
 

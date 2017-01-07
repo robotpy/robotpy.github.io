@@ -13,7 +13,7 @@ Features:
 *   RobotPy provides access to WPILib in addition to the Python standard library.
 *   No programming software is required; just a text editor!
 
-To get started, see our [getting started guide](http://robotpy.readthedocs.org/en/latest/getting_started.html) (what else?).
+To get started, see our [getting started guide](http://robotpy.readthedocs.io/en/stable/getting_started.html) (what else?).
 
 ### RobotPy Logos
 
