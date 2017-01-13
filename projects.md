@@ -9,6 +9,7 @@ RobotPy is home to several FRC-related python projects:
 *   [roborio-packages](https://github.com/robotpy/roborio-packages): Various python packages for roboRIO platform installable by opkg, including the python interpreter and numpy
 *   [pyfrc](https://github.com/robotpy/pyfrc): provides unit testing, realtime robot simulation, and easy upload capabilities for your RobotPy code
 *   [robotpy-wpilib-utilities](https://github.com/robotpy/robotpy-wpilib-utilities): Community focused extensions for WPILib
+*   [robotpy-ctre](https://github.com/robotpy/robotpy-ctre): wrappers for the CTRE 3rd party libraries
 *   [robotpy-frcsim](https://github.com/robotpy/robotpy-frcsim): FRCSim/gazebo connection for python code
 
 RobotPy is home to several python projects that are useful for teams, even if they aren't writing their robot code in python:
