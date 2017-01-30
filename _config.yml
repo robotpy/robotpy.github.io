@@ -23,7 +23,7 @@ menu:
     - ["Docs", "/docs/"]
     - ["Code", "https://github.com/robotpy"]
     - ["Community", "/community/"]
-    - ["FAQ", "/faq/"]
+    - ["FAQ", "http://robotpy.readthedocs.io/en/stable/faq.html"]
     - ["About", "/about/"]
 
 # Custom vars
