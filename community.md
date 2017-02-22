@@ -12,6 +12,7 @@ teamlist:
         - ["4480", ""]
         - ["4774", ""]
         - ["4796", ""]
+        - ["5045", ""]
     2016:
         - ["74", "https://github.com/Team74/FRC_2016_Python_Stronghold"]
         - ["94", "https://github.com/TechnoJays/robot2016"]
@@ -29,6 +30,7 @@ teamlist:
         - ["4688", "https://github.com/clxe/frc2016"]
         - ["4774", "https://github.com/thedropbears"]
         - ["4819", "https://github.com/Team4819/2016-Codebase"]
+        - ["5045", "https://github.com/Team5045/2016-bot"]
         - ["5929", ""]
     2015:
         - ["94", "https://github.com/TechnoJays/robot2015"]
@@ -42,6 +44,7 @@ teamlist:
         - ["4009", "https://github.com/DenfeldRobotics4009/2015_Lopez_Jr"]
         - ["4480", "https://github.com/bb20basketball/2015-Team4480-Code"]
         - ["4819", "https://github.com/Team4819/2015-Python-Codebase"]
+        - ["5045", ""]
     2014:
         - ["94", "https://github.com/TechnoJays/robot2014"]
         - ["294", ""]
