@@ -11,6 +11,7 @@ teamlist:
         - ["1973", ""]
         - ["2186", "https://github.com/DrWateryCat/Robotics2017"]
         - ["2423", ""]
+        - ["2539", "https://github.com/FRC2539/pybot/tree/steamworks"]
         - ["2605", "https://github.com/Seamonsters-2605/CompetitionBot2017"]
         - ["4480", "https://github.com/bb20basketball/2017-Robot-Code"]
         - ["4774", ""]
