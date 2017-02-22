@@ -5,11 +5,13 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
     2017:
+        - ["1123", "https://github.com/FRC-1123/frc2017-1123"]
         - ["1418", ""]
         - ["1432", ""]
         - ["1973", ""]
         - ["2186", "https://github.com/DrWateryCat/Robotics2017"]
         - ["2423", ""]
+        - ["2605", "https://github.com/Seamonsters-2605/CompetitionBot2017"]
         - ["4480", "https://github.com/bb20basketball/2017-Robot-Code"]
         - ["4774", ""]
         - ["4796", ""]
