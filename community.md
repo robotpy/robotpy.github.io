@@ -19,6 +19,7 @@ teamlist:
         - ["4774", ""]
         - ["4796", ""]
         - ["5045", ""]
+        - ["5929", ""]
         - ["6098", "https://github.com/bIrobot/2017-Caroline"]
     2016:
         - ["74", "https://github.com/Team74/FRC_2016_Python_Stronghold"]
