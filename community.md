@@ -16,6 +16,7 @@ teamlist:
         - ["2605", "https://github.com/Seamonsters-2605/CompetitionBot2017"]
         - ["3184", "https://github.com/FRC3184/frc2017"]
         - ["3223", "https://github.com/Retro3223/dashboard2017"]
+        - ["3636", ""]
         - ["4096", ""]
         - ["4480", "https://github.com/bb20basketball/2017-Robot-Code"]
         - ["4774", ""]
