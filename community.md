@@ -4,6 +4,9 @@ title: RobotPy Community
 
 # Feel free to add your team to this list!
 teamlist:
+    2018:
+        - ["2423", ""]
+        - ["4774", ""]
     2017:
         - ["247", ""]
         - ["1123", "https://github.com/FRC-1123/frc2017-1123"]

@@ -19,6 +19,7 @@ RobotPy is home to several python projects that are useful for teams, even if th
 *   [pynetconsole](https://github.com/robotpy/pynetconsole): A simple netconsole implementation in python
 *   [roborio-opencv](https://github.com/robotpy/roborio-opencv): OpenCV binaries for RoboRIO
 *   [roborio-vm](https://github.com/robotpy/roborio-vm): Scripts to create a QEMU virtual machine from the RoboRIO image file
+*   [roborio-docker](https://github.com/robotpy/roborio-docker): Create an ARM docker image from the RoboRIO image file
 
 
 And, other projects:
