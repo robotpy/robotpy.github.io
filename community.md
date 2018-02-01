@@ -9,6 +9,7 @@ teamlist:
         - ["1243", ""]
         - ["1418", ""]
         - ["2423", ""]
+        - ["2539", "https://github.com/FRC2539/pybot/tree/powerup"]
         - ["3184", ""]
         - ["3299", "https://github.com/3299"]
         - ["4256", ""]
