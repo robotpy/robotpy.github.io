@@ -17,7 +17,7 @@ teamlist:
         - ["4607", ""]
         - ["4774", ""]
         - ["5613", ""]
-        - ["6153", ""]
+        - ["6153", "https://github.com/BlueCrewRobotics/Kylo"]
     2017:
         - ["247", ""]
         - ["1123", "https://github.com/FRC-1123/frc2017-1123"]
