@@ -12,6 +12,7 @@ teamlist:
         - ["2539", "https://github.com/FRC2539/pybot/tree/powerup"]
         - ["3184", ""]
         - ["3299", "https://github.com/3299"]
+        - ["3966", "https://github.com/lnstempunks/The2018Thing/"]
         - ["4256", ""]
         - ["4480", ""]
         - ["4607", ""]
