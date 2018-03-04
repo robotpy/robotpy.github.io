@@ -23,6 +23,7 @@ teamlist:
         - ["4774", ""]
         - ["5613", ""]
         - ["5863", ""]
+        - ["6098", "https://github.com/bIrobot/2018-Chell"]
         - ["6153", "https://github.com/BlueCrewRobotics/Kylo"]
     2017:
         - ["247", ""]
