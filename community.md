@@ -4,6 +4,9 @@ title: RobotPy Community
 
 # Feel free to add your team to this list!
 teamlist:
+    2019:
+        - ["2423", ""]
+        - ["6367", ""]
     2018:
         - ["74", ""]
         - ["87", "https://github.com/RVRProgramming/Diablo2018"]
