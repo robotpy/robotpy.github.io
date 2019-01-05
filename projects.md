@@ -10,7 +10,8 @@ RobotPy is home to several FRC-related python projects:
 *   [pyfrc](https://github.com/robotpy/pyfrc): provides unit testing, realtime robot simulation, and easy upload capabilities for your RobotPy code
 *   [robotpy-wpilib-utilities](https://github.com/robotpy/robotpy-wpilib-utilities): Community focused extensions for WPILib
 *   [robotpy-ctre](https://github.com/robotpy/robotpy-ctre): wrappers for the CTRE 3rd party libraries
-*   [robotpy-frcsim](https://github.com/robotpy/robotpy-frcsim): FRCSim/gazebo connection for python code
+*   [robotpy-navx](https://github.com/robotpy/robotpy-navx): bindings for the NavX device
+
 
 RobotPy is home to several python projects that are useful for teams, even if they aren't writing their robot code in python:
 
@@ -25,6 +26,6 @@ RobotPy is home to several python projects that are useful for teams, even if th
 And, other projects:
 
 *   [RobotPy Eclipse Plugins](https://github.com/robotpy/robotpy-eclipse-plugins) - If you want to develop RobotPy code with Eclipse, we've developed some plugins that provide tight integration with the FRC tools and pyfrc.
-
+*   [robotpy-frcsim](https://github.com/robotpy/robotpy-frcsim): FRCSim/gazebo connection for python code
 
 All RobotPy source code can be found on our [github site](https://github.com/robotpy).
