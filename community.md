@@ -7,6 +7,7 @@ teamlist:
     2019:
         - ["2423", ""]
         - ["6367", ""]
+        - ["6762", ""]
     2018:
         - ["74", ""]
         - ["87", "https://github.com/RVRProgramming/Diablo2018"]
