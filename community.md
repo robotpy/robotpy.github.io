@@ -10,6 +10,7 @@ teamlist:
         - ["6367", ""]
         - ["6762", ""]
         - ["5024", ""]
+        - ["5654", ""]
     2018:
         - ["74", ""]
         - ["87", "https://github.com/RVRProgramming/Diablo2018"]
@@ -46,6 +47,7 @@ teamlist:
         - ["5002", "https://github.com/dragonrobotics/2018-PowerUp"]
         - ["5549", "https://github.com/FRC5549Robotics/5549-2018"]
         - ["5613", ""]
+        - ["5654", "https://github.com/Phoenix-5654/2018-robot-python"]
         - ["5863", ""]
         - ["5970", "https://github.com/seanic101/2018code5970"]
         - ["5994", "https://github.com/PaulVirally/5994-Robot-Code-2018"]
