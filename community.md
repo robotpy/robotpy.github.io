@@ -6,10 +6,12 @@ title: RobotPy Community
 teamlist:
     2020:
        - ["3200", ""]
+       - ["3966",""]
        - ["5024", ""]
     2019:
         - ["2423", ""]
         - ["3200", "https://github.com/Raptacon/Robot-2019"]
+        - ["3966", "https://github.com/lnstempunks/MarvinTheParanoidAndroid"]
         - ["4096", ""]
         - ["5024", ""]
         - ["5654", ""]
