@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-RobotPy is a community of FIRST mentors and students dedicated to developing python-related projects for the FIRST Robotics Competition. The primary project we develop is a port of [Python](http://www.python.org/) 3 and WPILib to the RoboRIO & cRio (obsolete) platforms, intended for use in FRC.  Teams can use this to write their robot code in Python, a powerful dynamic programming language.
+RobotPy is a community of FIRST mentors and students dedicated to developing python-related projects for the [_FIRST_ Robotics Competition](https://www.firstinspires.org/robotics/frc/). The primary project we develop is a port of [Python](http://www.python.org/) 3 and WPILib to the RoboRIO & cRio (obsolete) platforms, intended for use in FRC.  Teams can use this to write their robot code in Python, a powerful dynamic programming language.
 
 Features:
 
