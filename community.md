@@ -161,6 +161,13 @@ teamlist:
         - ["294", ""]
         - ["2423", "https://github.com/team2423/2008-2012/tree/master/Kwarqs2011/trunk"]
 
+# From FRC usage data
+official:
+    2016: 33
+    2017: 43
+    2018: 64
+    2019: 77
+
 ---
 
 The RobotPy project was started in 2010, and since then the community surrounding RobotPy has continued to grow!
@@ -194,6 +201,10 @@ Here is a list of teams that are known to have used RobotPy over the years, and 
 
 {% for year in page.teamlist %}
 ### {{ year[0] }} ({{ year[1] | size }} teams)
+
+{% for countData in page.official %}{% if countData[0] == year[0] %}
+FRC Official RobotPy Team count: {{ countData[1] }} teams
+{% endif %}{% endfor %}
 
 {% for teaminfo in year[1] %}
 * [{{ teaminfo[0] }}](http://www.thebluealliance.com/team/{{ teaminfo[0] }}){% if teaminfo[1] != "" %} - [code]({{ teaminfo[1] }}){% endif %}{% endfor %}
