@@ -736,5 +736,6 @@ FRC Official RobotPy Team count: {{ countData[1] }} teams
 {% endfor %}
 </ul>
 
-
 {% endfor %}
+
+_Awards data powered by [The Blue Alliance](https://www.thebluealliance.com/)_
