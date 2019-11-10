@@ -721,7 +721,7 @@ FRC Official RobotPy Team count: {{ countData[1] }} teams
 <ul>
 {% for teaminfo in year[1] %}
 <li>
-  <a href="http://www.thebluealliance.com/team/{{ teaminfo[0] }}/{{ year[0] }}">{{ teaminfo[0]}}</a>
+  <a href="https://www.thebluealliance.com/team/{{ teaminfo[0] }}/{{ year[0] }}">{{ teaminfo[0]}}</a>
   {% if teaminfo[1].code %}
     - <a href="{{ teaminfo[1].code }}">code</a>
   {% endif %}
