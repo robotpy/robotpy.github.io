@@ -3,7 +3,7 @@ layout: post
 title: RobotPy 2020 availability
 ---
 
-Maintaining pure python bindings is a significant amount of work, and as more and more third party vendors join FRC, it becomes harder to provide support for those vendors and their devices. To reduce the amount of work required to maintain RobotPy in the long term, this year we're moving back to a WPILibC wrapper (which is what we were doing pre-2015).
+Maintaining pure python bindings is a significant amount of work, and as WPILib gains more features and as more and more third party vendors join FRC, it becomes harder to provide support for those vendors and their devices. To reduce the amount of work required to maintain RobotPy in the long term, this year we're moving back to a WPILibC wrapper (which is what we were doing pre-2015).
 
 In the long term, there are lots of benefits to this approach:
 
