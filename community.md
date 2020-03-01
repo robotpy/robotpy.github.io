@@ -9,6 +9,7 @@ teamlist:
     '3200': {}
     '3966': {}
     '5024': {}
+    '6098': {}
   2019:
     '279':
       code: https://github.com/FRCTeam279/2019DeepSpace
