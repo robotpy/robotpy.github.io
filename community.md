@@ -7,7 +7,7 @@ teamlist:
   2020:
     '703': {}
     '3200':
-      code:https://github.com/Raptacon/Robot-2020
+      code: https://github.com/Raptacon/Robot-2020
     '3966': {}
     '5024': {}
     '6098': {}
