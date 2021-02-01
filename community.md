@@ -4,7 +4,10 @@ title: RobotPy Community
 
 # Feel free to add your team to this list!
 teamlist:
-  2020:
+ 2021:
+    '3200':
+      code: https://github.com/Raptacon/Robot-2021
+ 2020:
     '703': {}
     '3200':
       code: https://github.com/Raptacon/Robot-2020
