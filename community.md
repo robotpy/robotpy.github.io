@@ -5,10 +5,16 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
   2021:
+    '2539':
+      code: https://github.com/FRC2539/pybot/tree/2021Solo
     '3200':
       code: https://github.com/Raptacon/Robot-2021
   2020:
     '703': {}
+    '2539': 
+      code: https://github.com/FRC2539/pybot/tree/InfiniteRecharge
+      awards: 
+      - 'FMA District Hatboro-Horsham Event: Autonomous Award sponsored by Ford'
     '3200':
       code: https://github.com/Raptacon/Robot-2020
     '3966': {}
