@@ -9,6 +9,7 @@ teamlist:
       code: https://github.com/FRC2539/pybot/tree/2021Solo
     '3200':
       code: https://github.com/Raptacon/Robot-2021
+    '7439' : {}
   2020:
     '703': {}
     '2539': 
