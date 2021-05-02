@@ -1,7 +1,7 @@
 # Permalinks
 permalink:        pretty
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-sitemap

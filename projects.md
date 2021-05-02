@@ -6,12 +6,17 @@ title: Robotpy Projects
 RobotPy is home to several FRC-related python projects:
 
 *   [RobotPy WPILib](https://github.com/robotpy/robotpy-wpilib): the python implementation of WPILib for FRC
-*   [roborio-packages](https://github.com/robotpy/roborio-packages): Various python packages for roboRIO platform installable by opkg, including the python interpreter and numpy
 *   [pyfrc](https://github.com/robotpy/pyfrc): provides unit testing, realtime robot simulation, and easy upload capabilities for your RobotPy code
 *   [robotpy-wpilib-utilities](https://github.com/robotpy/robotpy-wpilib-utilities): Community focused extensions for WPILib
+
+We also maintain python wrappers for several FRC vendor libraries:
+
+*   [robotpy-adi](https://github.com/robotpy/robotpy-adi): wrappers for Analog Devices IMU products 
 *   [robotpy-ctre](https://github.com/robotpy/robotpy-ctre): wrappers for the CTRE 3rd party libraries
 *   [robotpy-navx](https://github.com/robotpy/robotpy-navx): bindings for the NavX device
-
+*   [robotpy-playingwithfusion](https://github.com/robotpy/robotpy-playingwithfusion): bindings for PWF hardware 
+*   [robotpy-rev](https://github.com/robotpy/robotpy-rev): bindings for the REV Robotics SPARK MAX
+*   [robotpy-rev-color](https://github.com/robotpy/robotpy-rev-color): wrappers for REV Robotics Color Sensor V3 
 
 RobotPy is home to several python projects that are useful for teams, even if they aren't writing their robot code in python:
 
