@@ -6,6 +6,8 @@ title: RobotPy Community
 teamlist:
   2022:
     '3200': {}
+    '2988':
+      code: https://github.com/Robogenesis2988
   2021:
     '2539':
       code: https://github.com/FRC2539/pybot/tree/2021Solo
