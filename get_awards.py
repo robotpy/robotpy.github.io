@@ -6,6 +6,7 @@ import tbapy
 import sys
 import yaml
 
+
 def update_year(tba, year, data):
     year = int(year)
     teams = data[year]
@@ -21,11 +22,14 @@ def update_year(tba, year, data):
 
         for award in awards:
             updated = True
-            event = tba.event(award['event_key'])
-            teamdata.setdefault('awards', []).append(f'{event["name"]}: {award["name"]}')
-        
+            event = tba.event(award["event_key"])
+            teamdata.setdefault("awards", []).append(
+                f'{event["name"]}: {award["name"]}'
+            )
+
         if updated:
             teams[team] = teamdata
+
 
 def main():
     if len(sys.argv) == 1:
@@ -33,19 +37,17 @@ def main():
         return
 
     year = sys.argv[1]
-    data = frontmatter.load("community.md")['teamlist']
-    tba = tbapy.TBA(os.environ['TBA_KEY'])
+    data = frontmatter.load("community.md")["teamlist"]
+    tba = tbapy.TBA(os.environ["TBA_KEY"])
 
-    if year == 'all':
+    if year == "all":
         for year in data:
             update_year(tba, year, data)
     else:
         update_year(tba, year, data)
-    
+
     print(yaml.dump(data, sort_keys=False))
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
-
-
-
