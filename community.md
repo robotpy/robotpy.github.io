@@ -7,37 +7,59 @@ teamlist:
   2022:
     '94': {}
     '1076': {}
-    '2539': {}
+    '2539':
+      awards:
+      - 'FMA District Hatboro-Horsham Event: District Event Winner'
+      - 'FMA District Hatboro-Horsham Event: Innovation in Control Award'
     '2988':
       code: https://github.com/Robogenesis2988
     '3200': {}
     '4774': {}
     '6367': {}
   2021:
-    '1076': {}
+    '1076':
+      awards:
+      - 'Strontium Group - Game Design Challenge: Engineering Design Award'
     '2539':
       code: https://github.com/FRC2539/pybot/tree/2021Solo
+      awards:
+      - 'Bromine Group - INFINITE RECHARGE At Home Challenge: Autonomous Award sponsored
+        by Ford'
+      - 'Bromine Group - INFINITE RECHARGE At Home Challenge: Skills Competition Winner'
     '3200':
       code: https://github.com/Raptacon/Robot-2021
     '7439': {}
   2020:
-    '703': {}
+    '703':
+      awards:
+      - 'FIM District Kettering University Event #2: Imagery Award in honor of Jack
+        Kamen'
     '1076':
       code: https://github.com/FRC1076/2020-Competition
     '1571':
       code: https://github.com/FRCTeam1571/Robot2020
     '2539': 
       code: https://github.com/FRC2539/pybot/tree/InfiniteRecharge
-      awards: 
+      awards:
       - 'FMA District Hatboro-Horsham Event: Autonomous Award sponsored by Ford'
+      - 'FMA District Hatboro-Horsham Event: Safety Award sponsored by Underwriters
+        Laboratories'
     '3200':
       code: https://github.com/Raptacon/Robot-2020
     '3881':
       code: https://github.com/WHEARobotics/FRC2020
-    '3966': {}
+    '3966':
+      awards:
+      - 'Arkansas Regional: Imagery Award in honor of Jack Kamen'
     '4096':
       code: https://github.com/CtrlZ-FRC4096/Robot-2020-Public
-    '5024': {}
+      awards:
+      - 'Midwest Regional: Imagery Award in honor of Jack Kamen'
+      - '* Central Illinois Regional (Cancelled): FIRST Dean''s List Finalist Award'
+    '5024':
+      awards:
+      - 'ONT District Humber College Event: District Event Finalist'
+      - 'ONT District Humber College Event: District Engineering Inspiration Award'
     '5549':
       code: https://github.com/FRC5549Robotics/5549-2020
     '6098':
