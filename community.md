@@ -25,6 +25,8 @@ teamlist:
     '5654': {}
     '6343': {}
     '6367': {}
+    '7459':
+      code: https://github.com/TaubatexasRobotics/2022-robot-code
   2021:
     '1076':
       awards:
@@ -43,6 +45,8 @@ teamlist:
     '3200':
       code: https://github.com/Raptacon/Robot-2021
     '7439': {}
+    '7459':
+      code: https://github.com/TaubatexasRobotics/2021-robot-code
   2020:
     '703':
       awards:
