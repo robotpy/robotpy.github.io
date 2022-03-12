@@ -20,12 +20,16 @@ def update_year(tba, year, data):
             print(e, file=sys.stderr)
             continue
 
+        if not awards:
+            continue
+
         for award in awards:
-            updated = True
             event = tba.event(award["event_key"])
-            teamdata.setdefault("awards", []).append(
-                f'{event["name"]}: {award["name"]}'
-            )
+            award_text = f'{event["name"]}: {award["name"]}'
+            team_awards = teamdata.setdefault("awards", [])
+            if award_text not in team_awards:
+                team_awards.append(award_text)
+                updated = True
 
         if updated:
             teams[team] = teamdata
@@ -46,7 +50,7 @@ def main():
     else:
         update_year(tba, year, data)
 
-    print(yaml.dump(data, sort_keys=False))
+    print(yaml.dump(dict(teamlist=data), sort_keys=False))
 
 
 if __name__ == "__main__":
