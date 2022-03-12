@@ -7,6 +7,10 @@ teamlist:
   2022:
     '94': {}
     '1076': {}
+    '1721':
+      awards:
+      - 'NE District Granite State Event: Gracious Professionalism Award'
+    '2429': {}
     '2539':
       awards:
       - 'FMA District Hatboro-Horsham Event: District Event Winner'
@@ -14,7 +18,10 @@ teamlist:
     '2988':
       code: https://github.com/Robogenesis2988
     '3200': {}
+    '3160': {}
+    '4169': {}
     '4774': {}
+    '6343': {}
     '6367': {}
   2021:
     '1076':
@@ -26,6 +33,9 @@ teamlist:
       - 'Bromine Group - INFINITE RECHARGE At Home Challenge: Autonomous Award sponsored
         by Ford'
       - 'Bromine Group - INFINITE RECHARGE At Home Challenge: Skills Competition Winner'
+    '2429':
+      code: https://github.com/aesatchien/FRC2429_2021
+    '3160': {}
     '3200':
       code: https://github.com/Raptacon/Robot-2021
     '7439': {}
@@ -38,12 +48,20 @@ teamlist:
       code: https://github.com/FRC1076/2020-Competition
     '1571':
       code: https://github.com/FRCTeam1571/Robot2020
+    '2429':
+      code: https://github.com/aesatchien/FRC2429_2020
+      awards:
+        - '* Aerospace Valley Regional (Cancelled): Woodie Flowers Finalist Award'
+        - '* Aerospace Valley Regional (Cancelled): FIRST Dean''s List Finalist Award'
+        - 'Los Angeles North Regional: Regional Chairman''s Award'
     '2539': 
       code: https://github.com/FRC2539/pybot/tree/InfiniteRecharge
       awards:
       - 'FMA District Hatboro-Horsham Event: Autonomous Award sponsored by Ford'
       - 'FMA District Hatboro-Horsham Event: Safety Award sponsored by Underwriters
         Laboratories'
+    '3160':
+      code: https://github.com/FROG3160/2020-infinite-recharge
     '3200':
       code: https://github.com/Raptacon/Robot-2020
     '3881':
@@ -101,8 +119,10 @@ teamlist:
       code: https://github.com/FRC2539/pybot/tree/DeepSpace
       awards:
       - 'FMA District Hatboro-Horsham Event: District Event Finalist'
-      - 'FMA District Hatboro-Horsham Event: Innovation in Control Award sponsored by
-        Rockwell Automation'
+      - 'FMA District Hatboro-Horsham Event: Innovation in Control Award sponsored
+        by Rockwell Automation'
+      - 'Ramp Riot: Winner'
+      - 'Ramp Riot: #1 Seed Award'
     '2605':
       code: https://github.com/Seamonsters-2605/CompetitionBot2019
       awards:
@@ -262,6 +282,7 @@ teamlist:
       awards:
       - 'Idaho Regional: Regional Winners'
     '3160':
+      code: https://github.com/FROG3160/FRC2018-ARWING
       awards:
       - 'Oklahoma Regional : Judges'' Award'
       - 'Oklahoma Regional : Woodie Flowers Finalist Award'
