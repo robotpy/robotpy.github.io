@@ -19,6 +19,7 @@ teamlist:
       code: https://github.com/Robogenesis2988
     '3200': {}
     '3160': {}
+    '4096': {}
     '4169': {}
     '4774': {}
     '6343': {}
@@ -36,6 +37,8 @@ teamlist:
     '2429':
       code: https://github.com/aesatchien/FRC2429_2021
     '3160': {}
+    '4096':
+      code: https://github.com/CtrlZ-FRC4096/Robot-2020-Public
     '3200':
       code: https://github.com/Raptacon/Robot-2021
     '7439': {}
