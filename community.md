@@ -5,10 +5,16 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
   2022:
-    '3200': {}
+    '94': {}
+    '1076': {}
+    '2539': {}
     '2988':
       code: https://github.com/Robogenesis2988
+    '3200': {}
+    '4774': {}
+    '6367': {}
   2021:
+    '1076': {}
     '2539':
       code: https://github.com/FRC2539/pybot/tree/2021Solo
     '3200':
@@ -16,15 +22,28 @@ teamlist:
     '7439': {}
   2020:
     '703': {}
+    '1076':
+      code: https://github.com/FRC1076/2020-Competition
+    '1571':
+      code: https://github.com/FRCTeam1571/Robot2020
     '2539': 
       code: https://github.com/FRC2539/pybot/tree/InfiniteRecharge
       awards: 
       - 'FMA District Hatboro-Horsham Event: Autonomous Award sponsored by Ford'
     '3200':
       code: https://github.com/Raptacon/Robot-2020
+    '3881':
+      code: https://github.com/WHEARobotics/FRC2020
     '3966': {}
+    '4096':
+      code: https://github.com/CtrlZ-FRC4096/Robot-2020-Public
     '5024': {}
-    '6098': {}
+    '5549':
+      code: https://github.com/FRC5549Robotics/5549-2020
+    '6098':
+      code: https://github.com/bIrobot/2020-Skipjack-Betty
+    '6367':
+      code: https://github.com/frc6367/2020-robot
   2019:
     '279':
       code: https://github.com/FRCTeam279/2019DeepSpace
@@ -88,6 +107,7 @@ teamlist:
       - 'Smoky Mountains Regional: Imagery Award in honor of Jack Kamen'
       - 'Smoky Mountains Regional: Wildcard'
     '4096':
+      code: https://github.com/CtrlZ-FRC4096/Robot-2019-Public
       awards:
       - 'Midwest Regional: Innovation in Control Award sponsored by Rockwell Automation'
       - 'Central Illinois Regional: Woodie Flowers Finalist Award'
