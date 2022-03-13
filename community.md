@@ -26,7 +26,8 @@ teamlist:
     '6343': {}
     '6367': {}
     '7459':
-      code: https://github.com/TaubatexasRobotics/2022-robot-code    
+      code: https://github.com/TaubatexasRobotics/2022-robot-code
+    '8032': {}
   2021:
     '1076':
       awards:
@@ -47,6 +48,8 @@ teamlist:
     '7439': {}
     '7459':
       code: https://github.com/TaubatexasRobotics/2021-robot-code
+    '8032':
+      code: https://github.com/redshiftrobotics/8032
   2020:
     '703':
       awards:
