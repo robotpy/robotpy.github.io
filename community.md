@@ -6,22 +6,37 @@ title: RobotPy Community
 teamlist:
   2022:
     '94': {}
-    '1076': {}
+    '1076':
+      awards:
+      - 'FIM District Gull Lake Event presented by Parker Hannafin: District Event
+        Finalist'
     '1721':
       awards:
       - 'NE District Granite State Event: Gracious Professionalism Award'
-    '2429': {}
+    '2429':
+      awards:
+      - 'Orange County Regional: Excellence in Engineering Award'
     '2539':
       awards:
       - 'FMA District Hatboro-Horsham Event: District Event Winner'
       - 'FMA District Hatboro-Horsham Event: Innovation in Control Award'
     '2988':
       code: https://github.com/Robogenesis2988
-    '3200': {}
-    '3160': {}
+    '3200':
+      awards:
+      - 'Arizona North Regional: Regional Finalists'
+      - 'Arizona North Regional: Excellence in Engineering Award'
+    '3160':
+      awards:
+      - 'Oklahoma Regional: Regional Winners'
+      - 'Oklahoma Regional: Creativity Award sponsored by Rockwell Automation'
+      - 'Oklahoma Regional: FIRST Dean''s List Finalist Award'
     '4096': {}
     '4169': {}
-    '4774': {}
+    '4774':
+      awards:
+      - 'Southern Cross Regional: Regional Finalists'
+      - 'Southern Cross Regional: Innovation in Control Award'
     '5654': {}
     '6343': {}
     '6367': {}
