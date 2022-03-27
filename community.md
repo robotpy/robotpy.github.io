@@ -13,6 +13,7 @@ teamlist:
     '1721':
       awards:
       - 'NE District Granite State Event: Gracious Professionalism Award'
+    '1757': {}
     '2429':
       awards:
       - 'Orange County Regional: Excellence in Engineering Award'
