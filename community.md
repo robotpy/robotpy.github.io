@@ -10,6 +10,8 @@ teamlist:
       awards:
       - 'FIM District Gull Lake Event presented by Parker Hannafin: District Event
         Finalist'
+      - 'FIM District Gull Lake Event presented by Parker Hannifin: District Event
+        Finalist'
     '1721':
       awards:
       - 'NE District Granite State Event: Gracious Professionalism Award'
@@ -21,6 +23,8 @@ teamlist:
       awards:
       - 'FMA District Hatboro-Horsham Event: District Event Winner'
       - 'FMA District Hatboro-Horsham Event: Innovation in Control Award'
+      - 'FMA District Seneca Event: District Event Finalist'
+      - 'FMA District Seneca Event: Innovation in Control Award'
     '2988':
       code: https://github.com/Robogenesis2988
     '3200':
@@ -48,6 +52,7 @@ teamlist:
     '1076':
       awards:
       - 'Strontium Group - Game Design Challenge: Engineering Design Award'
+    '1757': {}
     '2539':
       code: https://github.com/FRC2539/pybot/tree/2021Solo
       awards:
@@ -75,6 +80,8 @@ teamlist:
       code: https://github.com/FRC1076/2020-Competition
     '1571':
       code: https://github.com/FRCTeam1571/Robot2020
+    '1757':
+      code: https://github.com/1757WestwoodRobotics/InfiniteRecharge2020
     '2429':
       code: https://github.com/aesatchien/FRC2429_2020
       awards:
