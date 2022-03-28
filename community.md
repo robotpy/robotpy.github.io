@@ -45,6 +45,7 @@ teamlist:
     '5654': {}
     '6343': {}
     '6367': {}
+    '7407': {}
     '7459':
       code: https://github.com/TaubatexasRobotics/2022-robot-code
     '8032': {}
