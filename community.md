@@ -8,8 +8,6 @@ teamlist:
     '94': {}
     '1076':
       awards:
-      - 'FIM District Gull Lake Event presented by Parker Hannafin: District Event
-        Finalist'
       - 'FIM District Gull Lake Event presented by Parker Hannifin: District Event
         Finalist'
     '1721':
@@ -42,10 +40,17 @@ teamlist:
       awards:
       - 'Southern Cross Regional: Regional Finalists'
       - 'Southern Cross Regional: Innovation in Control Award'
-    '5654': {}
+      - 'Hawaii Regional: Regional Winners'
+      - 'Hawaii Regional: Innovation in Control Award'
+    '5654':
+      awards:
+      - 'FIRST Israel District Championship: Quality Award'
     '6343': {}
     '6367': {}
-    '7407': {}
+    '7407':
+      awards:
+      - 'NE District Granite State Event: District Event Winner'
+      - 'NE District Granite State Event: Innovation in Control Award'
     '7459':
       code: https://github.com/TaubatexasRobotics/2022-robot-code
     '8032': {}
