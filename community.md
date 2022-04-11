@@ -13,16 +13,21 @@ teamlist:
     '1721':
       awards:
       - 'NE District Granite State Event: Gracious Professionalism Award'
-    '1757': {}
+    '1757':
+      awards:
+      - 'NE District WPI Event: Innovation in Control Award'
     '2429':
       awards:
       - 'Orange County Regional: Excellence in Engineering Award'
+      - 'Aerospace Valley Regional: Excellence in Engineering Award'
     '2539':
       awards:
       - 'FMA District Hatboro-Horsham Event: District Event Winner'
       - 'FMA District Hatboro-Horsham Event: Innovation in Control Award'
       - 'FMA District Seneca Event: District Event Finalist'
       - 'FMA District Seneca Event: Innovation in Control Award'
+      - 'FIRST Mid-Atlantic District Championship: District Championship Finalist'
+      - 'FIRST Mid-Atlantic District Championship: Innovation in Control Award'
     '2988':
       code: https://github.com/Robogenesis2988
     '3200':
@@ -51,6 +56,8 @@ teamlist:
       awards:
       - 'NE District Granite State Event: District Event Winner'
       - 'NE District Granite State Event: Innovation in Control Award'
+      - 'NE District Hartford Event: District Event Finalist'
+      - 'NE District Hartford Event: District Engineering Inspiration Award'
     '7459':
       code: https://github.com/TaubatexasRobotics/2022-robot-code
     '8032': {}
