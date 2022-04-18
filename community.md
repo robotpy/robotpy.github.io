@@ -16,6 +16,7 @@ teamlist:
     '1757':
       awards:
       - 'NE District WPI Event: Innovation in Control Award'
+      - 'New England FIRST District Championship - Calcium Division: Quality Award'
     '2429':
       awards:
       - 'Orange County Regional: Excellence in Engineering Award'
@@ -58,6 +59,7 @@ teamlist:
       - 'NE District Granite State Event: Innovation in Control Award'
       - 'NE District Hartford Event: District Event Finalist'
       - 'NE District Hartford Event: District Engineering Inspiration Award'
+      - 'New England FIRST District Championship: FIRST Dean''s List Finalist Award'
     '7459':
       code: https://github.com/TaubatexasRobotics/2022-robot-code
     '8032': {}
