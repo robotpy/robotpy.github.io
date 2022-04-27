@@ -29,6 +29,8 @@ teamlist:
       - 'FMA District Seneca Event: Innovation in Control Award'
       - 'FIRST Mid-Atlantic District Championship: District Championship Finalist'
       - 'FIRST Mid-Atlantic District Championship: Innovation in Control Award'
+      - 'FIRST Championship (Houston): Championship Finalist'
+      - 'Turing Division: Championship Division Winner'
     '2988':
       code: https://github.com/Robogenesis2988
     '3200':
