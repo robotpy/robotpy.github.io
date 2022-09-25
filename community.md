@@ -34,6 +34,7 @@ teamlist:
     '2988':
       code: https://github.com/Robogenesis2988
     '3200':
+      code: https://github.com/Raptacon/Robot-2022
       awards:
       - 'Arizona North Regional: Regional Finalists'
       - 'Arizona North Regional: Excellence in Engineering Award'
