@@ -57,6 +57,7 @@ teamlist:
     '6343': {}
     '6367': {}
     '7407':
+      code: https://github.com/Choate-Robotics/7407-DriveCode-2021-Python
       awards:
       - 'NE District Granite State Event: District Event Winner'
       - 'NE District Granite State Event: Innovation in Control Award'
