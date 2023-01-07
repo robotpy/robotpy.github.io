@@ -4,6 +4,8 @@ title: RobotPy Community
 
 # Feel free to add your team to this list!
 teamlist:
+  2023:
+    '6367': {}
   2022:
     '94': {}
     '1076':
