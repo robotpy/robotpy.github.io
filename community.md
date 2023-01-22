@@ -6,6 +6,8 @@ title: RobotPy Community
 teamlist:
   2023:
     '6367': {}
+    '7439':
+      code: https://github.com/qubit-robotics/2023-public
     '7459':
       code: https://github.com/TaubatexasRobotics/2023-robot-code
   2022:
@@ -60,6 +62,8 @@ teamlist:
       - 'FIRST Israel District Championship: Quality Award'
     '6343': {}
     '6367': {}
+    '7439':
+      code: https://github.com/qubit-robotics/2022pendik
     '7407':
       code: https://github.com/Choate-Robotics/7407-DriveCode-2021-Python
       awards:
@@ -89,7 +93,8 @@ teamlist:
       code: https://github.com/CtrlZ-FRC4096/Robot-2020-Public
     '3200':
       code: https://github.com/Raptacon/Robot-2021
-    '7439': {}
+    '7439':
+      code: https://drive.google.com/file/d/1dq2LAL_NiuyIBIhyHEXXOv7uvgAwK8vw/view?usp=sharing
     '7459':
       code: https://github.com/TaubatexasRobotics/2021-robot-code
     '8032':
