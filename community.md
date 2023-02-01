@@ -5,6 +5,8 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
   2023:
+    '3200':
+      code: https://github.com/Raptacon/Robot-2023
     '6367': {}
     '7439':
       code: https://github.com/qubit-robotics/2023-public
