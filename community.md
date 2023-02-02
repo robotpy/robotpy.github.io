@@ -7,6 +7,7 @@ teamlist:
   2023:
     '94': {}
     '1076': {}
+    '1721': {}
     '1757': {}
     '3160': {}
     '3200':
@@ -29,6 +30,7 @@ teamlist:
     '1721':
       awards:
       - 'NE District Granite State Event: Gracious Professionalism Award'
+      code: https://github.com/FRC-1721/1721-RapidReact
     '1757':
       awards:
       - 'NE District WPI Event: Innovation in Control Award'
