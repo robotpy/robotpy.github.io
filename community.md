@@ -5,19 +5,27 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
   2023:
+    '94': {}
+    '1076': {}
+    '1757': {}
+    '3160': {}
     '3200':
       code: https://github.com/Raptacon/Robot-2023
+    '4774': {}
     '6367': {}
+    '7407': {}
     '7439':
       code: https://github.com/qubit-robotics/2023-public
     '7459':
       code: https://github.com/TaubatexasRobotics/2023-robot-code
   2022:
-    '94': {}
+    '94':
+      code: https://github.com/TechnoJays/robot2022
     '1076':
       awards:
       - 'FIM District Gull Lake Event presented by Parker Hannifin: District Event
         Finalist'
+      code: https://github.com/FRC1076/2022-Competition
     '1721':
       awards:
       - 'NE District Granite State Event: Gracious Professionalism Award'
@@ -25,10 +33,12 @@ teamlist:
       awards:
       - 'NE District WPI Event: Innovation in Control Award'
       - 'New England FIRST District Championship - Calcium Division: Quality Award'
+      code: https://github.com/1757WestwoodRobotics/2022-RapidReact
     '2429':
       awards:
       - 'Orange County Regional: Excellence in Engineering Award'
       - 'Aerospace Valley Regional: Excellence in Engineering Award'
+      code: https://github.com/aesatchien/FRC2429_2022
     '2539':
       awards:
       - 'FMA District Hatboro-Horsham Event: District Event Winner'
@@ -39,19 +49,22 @@ teamlist:
       - 'FIRST Mid-Atlantic District Championship: Innovation in Control Award'
       - 'FIRST Championship (Houston): Championship Finalist'
       - 'Turing Division: Championship Division Winner'
+      code: https://github.com/FRC2539/2022RapidReact
     '2988':
-      code: https://github.com/Robogenesis2988
-    '3200':
-      code: https://github.com/Raptacon/Robot-2022
-      awards:
-      - 'Arizona North Regional: Regional Finalists'
-      - 'Arizona North Regional: Excellence in Engineering Award'
+      code: https://github.com/Robogenesis2988/Robot-2022
     '3160':
       awards:
       - 'Oklahoma Regional: Regional Winners'
       - 'Oklahoma Regional: Creativity Award sponsored by Rockwell Automation'
       - 'Oklahoma Regional: FIRST Dean''s List Finalist Award'
-    '4096': {}
+      code: https://github.com/FROG3160/2022-rapid-react
+    '3200':
+      code: https://github.com/Raptacon/Robot-2022
+      awards:
+      - 'Arizona North Regional: Regional Finalists'
+      - 'Arizona North Regional: Excellence in Engineering Award'
+    '4096':
+      code: https://github.com/CtrlZ-FRC4096/Robot-2022-Public
     '4169': {}
     '4774':
       awards:
@@ -59,13 +72,13 @@ teamlist:
       - 'Southern Cross Regional: Innovation in Control Award'
       - 'Hawaii Regional: Regional Winners'
       - 'Hawaii Regional: Innovation in Control Award'
+      code: https://github.com/thedropbears/pyrapidreact
     '5654':
       awards:
       - 'FIRST Israel District Championship: Quality Award'
     '6343': {}
-    '6367': {}
-    '7439':
-      code: https://github.com/qubit-robotics/2022pendik
+    '6367':
+      code: https://github.com/frc6367/2022-robot
     '7407':
       code: https://github.com/Choate-Robotics/7407-DriveCode-2021-Python
       awards:
@@ -74,6 +87,8 @@ teamlist:
       - 'NE District Hartford Event: District Event Finalist'
       - 'NE District Hartford Event: District Engineering Inspiration Award'
       - 'New England FIRST District Championship: FIRST Dean''s List Finalist Award'
+    '7439':
+      code: https://github.com/qubit-robotics/2022pendik
     '7459':
       code: https://github.com/TaubatexasRobotics/2022-robot-code
     '8032': {}
