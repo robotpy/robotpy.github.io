@@ -7,6 +7,8 @@ teamlist:
   2023:
     '94': {}
     '1076': {}
+    '1339':
+      code: https://github.com/Angelbots1339/2023_MrSpeed
     '1721': {}
     '1757': {}
     '3160': {}
