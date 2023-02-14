@@ -14,6 +14,7 @@ teamlist:
     '3160': {}
     '3200':
       code: https://github.com/Raptacon/Robot-2023
+    '3881': {}
     '4774': {}
     '6367': {}
     '7407': {}
