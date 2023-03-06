@@ -17,7 +17,11 @@ teamlist:
     '3881': {}
     '4774': {}
     '6367': {}
-    '7407': {}
+    '7407':
+      awards:
+      - 'NE District SE Mass Event: District Event Finalist'
+      - 'NE District SE Mass Event: Excellence in Engineering Award'
+      - 'NE District SE Mass Event: District Championship Dean''s List Semi-Finalist'
     '7439':
       code: https://github.com/qubit-robotics/2023-public
     '7459':
