@@ -16,6 +16,10 @@ teamlist:
       code: https://github.com/Raptacon/Robot-2023
     '3881': {}
     '4774': {}
+    '6343':
+      awards:
+      - 'PNW District Wilsonville Event: Gracious Professionalism Award'
+      code: https://github.com/SteelRidgeRobotics/2022-23_FRC_Season
     '6367': {}
     '7407':
       awards:
@@ -86,7 +90,8 @@ teamlist:
     '5654':
       awards:
       - 'FIRST Israel District Championship: Quality Award'
-    '6343': {}
+    '6343':
+      code: https://github.com/SteelRidgeRobotics/2021-2022_FRC_Season
     '6367':
       code: https://github.com/frc6367/2022-robot
     '7407':
