@@ -7,11 +7,15 @@ teamlist:
   2023:
     '94': {}
     '1076': {}
-    '1339':
-      code: https://github.com/Angelbots1339/2023_MrSpeed
-    '1721': {}
-    '1757': {}
-    '3160': {}
+    '1721':
+      awards:
+      - 'NE District North Shore Event: District Event Finalist'
+    '1757':
+      awards:
+      - 'NE District Greater Boston Event: District Championship Dean''s List Semi-Finalist'
+    '3160':
+      awards:
+      - 'Oklahoma Regional: Industrial Design Award sponsored by General Motors'
     '3200':
       code: https://github.com/Raptacon/Robot-2023
     '3881': {}
