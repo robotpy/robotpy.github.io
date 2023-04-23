@@ -19,6 +19,15 @@ teamlist:
     '3200':
       code: https://github.com/Raptacon/Robot-2023
     '3881': {}
+    '4096':
+      awards:
+      - 'Central Illinois Regional: FIRST Dean''s List Finalist Award'
+      - 'Central Illinois Regional: Regional Winners'
+      - 'Central Illinois Regional: Innovation in Control Award'
+      - 'Iowa Regional: Regional FIRST Impact Award'
+      - 'Hopper Division: Championship Division Winner'
+      - 'Einstein Field (Houston): Championship Winner'
+      code: https://github.com/CtrlZ-FRC4096/Robot-2023-Public
     '4774': {}
     '6343':
       awards:
