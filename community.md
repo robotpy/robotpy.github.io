@@ -6,16 +6,27 @@ title: RobotPy Community
 teamlist:
   2023:
     '94': {}
-    '1076': {}
+    '1076':
+      awards:
+      - 'FIM District Saline Event: Team Spirit Award'
     '1721':
       awards:
       - 'NE District North Shore Event: District Event Finalist'
     '1757':
       awards:
       - 'NE District Greater Boston Event: District Championship Dean''s List Semi-Finalist'
+      - 'NE District WPI Event: District Event Winner'
+      - 'NE District WPI Event: District Engineering Inspiration Award'
+      - 'New England FIRST District Championship - WILSON Division: District Championship
+        Winner'
+      - 'New England FIRST District Championship - WILSON Division: Excellence in
+        Engineering Award'
+      - 'New England FIRST District Championship: District Championship Winner'
     '3160':
       awards:
       - 'Oklahoma Regional: Industrial Design Award sponsored by General Motors'
+      - 'Green Country Regional: Regional Finalists'
+      - 'Green Country Regional: Imagery Award in honor of Jack Kamen'
     '3200':
       code: https://github.com/Raptacon/Robot-2023
     '3881': {}
@@ -26,7 +37,7 @@ teamlist:
       - 'Central Illinois Regional: Innovation in Control Award'
       - 'Iowa Regional: Regional FIRST Impact Award'
       - 'Hopper Division: Championship Division Winner'
-      - 'Einstein Field (Houston): Championship Winner'
+      - 'Einstein Field: Championship Winner'
       code: https://github.com/CtrlZ-FRC4096/Robot-2023-Public
     '4774': {}
     '6343':
@@ -39,6 +50,15 @@ teamlist:
       - 'NE District SE Mass Event: District Event Finalist'
       - 'NE District SE Mass Event: Excellence in Engineering Award'
       - 'NE District SE Mass Event: District Championship Dean''s List Semi-Finalist'
+      - 'NE District Hartford Event: Industrial Design Award sponsored by General
+        Motors'
+      - 'Hopper Division: Innovation in Control Award'
+      - 'New England FIRST District Championship - MEIR Division: District Championship
+        Winner'
+      - 'New England FIRST District Championship - MEIR Division: Gracious Professionalism
+        Award'
+      - 'New England FIRST District Championship: District Championship Finalist'
+      - 'New England FIRST District Championship: FIRST Dean''s List Finalist Award'
     '7439':
       code: https://github.com/qubit-robotics/2023-public
     '7459':
