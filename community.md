@@ -5,7 +5,8 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
   2024:
-    '6343': {}
+    '6343':
+      code: https://github.com/SteelRidgeRobotics/2024MetalMelody
   2023:
     '94': {}
     '1076': {}
