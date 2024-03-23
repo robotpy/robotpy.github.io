@@ -5,6 +5,8 @@ title: RobotPy Community
 # Feel free to add your team to this list!
 teamlist:
   2024:
+    '9787':
+      code: https://github.com/FathomRobotics/2024-Crescendo-Code
   2023:
     '94': {}
     '1076':
