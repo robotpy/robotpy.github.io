@@ -4,6 +4,10 @@ title: RobotPy Community
 
 # Feel free to add your team to this list!
 teamlist:
+  2024:
+    '5113':
+      awards: 'FMA District Springside Chestnut Hill Event: Imagery Award in honor of Jack Kamen'
+      code: 'https://github.com/FRC5113/2024-Perry/tree/dev'
   2023:
     '94': {}
     '1076':
