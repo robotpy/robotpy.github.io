@@ -4,6 +4,12 @@ title: RobotPy Community
 
 # Feel free to add your team to this list!
 teamlist:
+  2024:
+    '6343':
+      awards:
+      - 'PNW District Clackamas Academy Event: Industrial Design Award'
+      - 'PNW District SunDome Event: Industrial Design Award'
+      code: https://github.com/SteelRidgeRobotics/2024MetalMelody
   2023:
     '94': {}
     '1076':
