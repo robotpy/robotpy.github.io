@@ -13,5 +13,5 @@ This rewrite is intended to be used more broadly for autogenerating pybind11
 wrappers around C++ code, not just for RobotPy. It is built around hatchling and
 the meson build system, I encourage you to take a look!
 
-* Github: https://github.com/robotpy/semiwrap
-* Documentation: https://semiwrap.readthedocs.io
+* Github: [https://github.com/robotpy/semiwrap](https://github.com/robotpy/semiwrap)
+* Documentation: [https://semiwrap.readthedocs.io](https://semiwrap.readthedocs.io)
