@@ -282,7 +282,7 @@ teamlist:
       - 'Central Illinois Regional: Woodie Flowers Finalist Award'
       - 'Central Illinois Regional: Regional Engineering Inspiration Award'
     '4480':
-      code: https://github.com/Brandutchmen/2019-Deep-Space-Team-4480
+      code: https://github.com/brandonyoungdev/2019-Deep-Space-Team-4480
     '4774':
       code: https://github.com/thedropbears/pydeepspace
       awards:
